@@ -72,4 +72,9 @@ site/
 # Optional: Image processing
 *.psd
 *.ai
-*.eps 
+*.eps
+
+# Cursor specific files
+.cursor/
+.cursorrules
+.cursorignore 
