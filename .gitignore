@@ -75,3 +75,4 @@ site/
 *.psd
 *.ai
 *.eps 
+.cursor
