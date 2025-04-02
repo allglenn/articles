@@ -1,0 +1,20 @@
+# Markdown Writing Best Practices
+
+## Formatting Standards
+1. Use bold for emphasis sparingly
+2. Use italics for foreign terms or emphasis
+3. Use blockquotes for important notes or citations
+4. Include proper spacing between sections
+5. Use tables when presenting structured data
+6. Use sentence case for titles and headings (not camel case or title case)
+   - Only capitalize the first word and proper nouns
+   - ✅ "Getting started with GitHub Actions"
+   - ✅ "What is GitHub Actions?"
+   - ❌ "Getting Started With GitHub Actions"
+   - ❌ "GettingStartedWithGitHubActions"
+   - ❌ "What Is GitHub Actions?"
+7. Make section titles more human-like and conversational
+   - ✅ "Let's get started with your first workflow"
+   - ✅ "How to manage secrets in your workflows"
+   - ❌ "Managing secrets"
+   - ❌ "Workflow configuration" 
