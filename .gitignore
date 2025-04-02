@@ -13,6 +13,8 @@ Thumbs.db
 *.swp
 *.swo
 *~
+.cursor/
+.cursorrules
 
 # Node.js (if using any JavaScript tools)
 node_modules/
